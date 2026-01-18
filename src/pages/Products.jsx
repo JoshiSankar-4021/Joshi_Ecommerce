@@ -1,6 +1,5 @@
 import React from "react";
-import { Footer, Navbar } from "../components";
-import Product from "../components/Product";
+import { Footer, Navbar,Product} from "../components";
 
 const Products = () => {
   return (
